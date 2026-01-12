@@ -1,10 +1,15 @@
 """
-Escribe un programa en Python para comprobar si un número es par o impar.
+Escriba un programa en Python para verificar si un año es bisiesto.
 """
 
 while True:
-    numero = input(print("Escribe un numero: "))
-    if int(numero) % 2 == 0:
-        print("Es par")
+
+    year = int(input(print("Escribe un año para verificar si es bisiesto: ")))
+    if year % 100 == 0:
+        print(f"{year} no es bisiesto")
+    elif year % 100 and year % 400 == 0: # Excepcion de la excepcion
+        print(f"{year} es bisiesto")
+    elif year % 4 == 0:
+        print(f"{year} es bisiesto")
     else:
-        print("Es impar")
+        print(f"{year} no es bisiesto")
