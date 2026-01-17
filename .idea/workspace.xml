@@ -4,16 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebc883f0-859e-4745-be6a-23d9cd1ef9cf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Pro14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pro15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pro16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pro17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pro18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pro19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pro20.py" afterDir="false" />
+    <list default="true" id="ebc883f0-859e-4745-be6a-23d9cd1ef9cf" name="Changes" comment="Adding Pro14 to Pro20">
+      <change afterPath="$PROJECT_DIR$/Pro21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pro22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pro23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pro24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pro25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pro26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pro27.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pro28.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pro29.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pro30.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pro13.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pro13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pro20.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pro20.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +55,12 @@
     "Python.Pro17.executor": "Run",
     "Python.Pro18.executor": "Run",
     "Python.Pro19.executor": "Run",
+    "Python.Pro20.executor": "Run",
+    "Python.Pro21.executor": "Run",
+    "Python.Pro22.executor": "Run",
+    "Python.Pro23.executor": "Run",
+    "Python.Pro24.executor": "Run",
+    "Python.Pro25.executor": "Run",
     "Python.Pro5.executor": "Run",
     "Python.Pro6.executor": "Run",
     "Python.Pro7.executor": "Run",
@@ -74,7 +83,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-f2b7a9f6281b-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.142" />
+        <option value="bundled-python-sdk-ca5e2b39c7df-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.308" />
       </set>
     </attachedChunks>
   </component>
@@ -86,6 +95,15 @@
       <option name="presentableId" value="Default" />
       <updated>1764015428708</updated>
     </task>
+    <task id="LOCAL-00001" summary="Adding Pro14 to Pro20">
+      <option name="closed" value="true" />
+      <created>1768248086502</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1768248086502</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,5 +116,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding Pro14 to Pro20" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding Pro14 to Pro20" />
   </component>
 </project>
